@@ -5,6 +5,24 @@ main{
 main img{
     width: 150px;
     height: auto;
+    border: 1px solid slateblue;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+}
+
+nav{
+    background-color: slategray;
+    padding: 10px;
+}
+
+nav a{
+    color: green;
+    padding: 10px;
+    display: block;
+}
+
+h1{
+    color: slategray;
 }
 
 aside{
